@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import ru.haliksar.example.multimodule.core.BaseFragment
+import ru.haliksar.example.multimodule.libruary.core.BaseFragment
 import ru.haliksar.example.multimodule.databinding.FragmentNotificationsBinding
 
 

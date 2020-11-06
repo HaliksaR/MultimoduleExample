@@ -1,2 +1,7 @@
 include ':app'
+include ':feature:home'
+include ':feature:dashboard'
+include ':libruary:core'
+include ':shared:post:data'
+include ':shared:post:domain'
 rootProject.name = "MultimoduleExample"
